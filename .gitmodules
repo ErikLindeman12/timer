@@ -1,0 +1,3 @@
+[submodule "timer-client"]
+	path = timer-client
+	url = https://github.com/ErikLindeman12/timer-client
